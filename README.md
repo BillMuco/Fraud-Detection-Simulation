@@ -14,7 +14,7 @@ The dataset simulates financial transactions, including transaction amounts, cus
 To effectively present insights, the following visualizations were created:
 
 ### 1. Fraud vs. Non-Fraud Transaction Count (Bar Chart)
-![Fraud vs. Non-Fraud Transaction Count](images/Fraud%20Vs.%20Non-Fraud%20Transaction%20Count.png)
+![Fraud Vs. Non-Fraud Transaction Count](images/Fraud%20Vs.%20Non-Fraud%20Transaction%20Count.png)
 - Compares the number of fraudulent vs. non-fraudulent transactions.
 - Helps assess the overall fraud rate in financial transactions.
 
@@ -29,7 +29,7 @@ To effectively present insights, the following visualizations were created:
 - Highlights which transaction types require stricter monitoring.
 
 ### 4. Anomaly Detection Using Machine Learning (Scatter Plot)
-![Anomaly Detection Using ML](images/Anomaly%20Detection.png)
+![Anomaly Detection](images/Anomaly%20Detection.png)
 - Identifies unusual transaction patterns using machine learning.
 - Helps detect anomalies that could indicate potential fraud.
 
